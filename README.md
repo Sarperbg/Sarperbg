@@ -9,7 +9,7 @@ JavaScript, React.js,Bootstrap, HTML, CSS, C#, Npm, Git, Github
 
 Connect with me:
 
-[![GitHub followers](https://img.shields.io/github/followers/Sarperbg.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Sarperbg?tab=followers)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sarpergulfirat//)
 
 
 Github Stats
