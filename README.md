@@ -20,3 +20,5 @@ Github Stats
 Github languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarperbg&layout=compact)](https://github.com/Sarperbg/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=your-github-Sarperbg)
