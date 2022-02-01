@@ -3,7 +3,14 @@
  Graduate Computer Science at Dokuz Eylul University.
  I'm interested in front end develelopment
 - 🌱 I’m currently learning React
-
+- 
+Languages and Tools:
+JavaScript, React.js,Bootstrap, HTML, CSS, C#, Npm, Git, Github
 
 Connect with me:
-[![linkedin Badge](https://img.shields.io/badge/-linkedin-000?style=quare&labelColor=000&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/sarpergulfirat/) 
+
+
+
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
