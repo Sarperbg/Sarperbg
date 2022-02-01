@@ -9,7 +9,7 @@ JavaScript, React.js,Bootstrap, HTML, CSS, C#, Npm, Git, Github
 
 Connect with me:
 
-[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+[![GitHub stars](https://img.shields.io/github/stars/Sarperbg/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Sarperbg/StrapDown.js/stargazers/)
 
 
 Github Stats
