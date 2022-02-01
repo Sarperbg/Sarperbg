@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning React
 
 
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Sarperbg) 
+Connect with me:
+[![linkedin Badge](https://img.shields.io/badge/-linkedin-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://www.linkedin.com/in/sarpergulfirat/) 
