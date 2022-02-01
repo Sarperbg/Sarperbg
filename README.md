@@ -11,9 +11,9 @@ Connect with me:
 
 
 
-Github Stats
+##Github Stats
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Sarperbg&show_icons=true&theme=radical)
 
-
+##
 Github languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarperbg&layout=compact)](https://github.com/Sarperbg/github-readme-stats)
