@@ -6,4 +6,4 @@
 
 
 Connect with me:
-[![linkedin Badge](https://img.shields.io/badge/-linkedin-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://www.linkedin.com/in/sarpergulfirat/) 
+[![linkedin Badge](https://img.shields.io/badge/-linkedin-000?style=quare&labelColor=000&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/sarpergulfirat/) 
