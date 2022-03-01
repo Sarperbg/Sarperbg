@@ -2,7 +2,8 @@
 
  Graduate Computer Science at Dokuz Eylul University.
  I'm interested in front end develelopment
-- 🌱 I’m currently learning React and Redux
+- 🌱 I'm currently working as a Front-End Developer @ Carbon Consulting.
+
 
 Languages and Tools:
 JavaScript, React.js,Bootstrap, HTML, CSS, C#, Npm, Git, Github
